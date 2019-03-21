@@ -96,7 +96,7 @@ class Preprocess():
         new = ['gmbh', 'ii', 'bitte', 'ag', 'iban', 'dr.', 'i', 'bic', 'bank',
                'namen', 'überweisung', 'euro', 'angabe', 'gogreen',
                'verwendungszweck', 'betrag', 'bic','werden', 'über', 'können',
-            word_counts = [[(mydict[id], count) for id, count in line] for line in mycorpus]   'unter', 'dass', 'bzw', 'monat', 'digitalkasten', 'mail', 'sowie',
+               'unter', 'dass', 'bzw', 'monat', 'digitalkasten', 'mail', 'sowie',
                'ergo', 'seite', 'bessemerstr', 'bessemerstraße', 'gogreen', 'klimaneutraler',
                'allianz', 'sehr', 'geehrter', 'grüssen', 'grüßen','erfolgt','daten','dsgvo',
                'post', 'versand', 'deutsche', 'deutsch', 'deutschen', 'berlin', 'zustellen',
